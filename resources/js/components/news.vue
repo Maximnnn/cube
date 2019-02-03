@@ -45,9 +45,6 @@
                 axios.post('news/get', {search: this.search}).then((news) => {
                     this.news = news.data;
                 });
-            },
-            searchNews: function() {
-                console.log($(this));
             }
         }
     }

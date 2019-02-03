@@ -1813,9 +1813,6 @@ __webpack_require__.r(__webpack_exports__);
       }).then(function (news) {
         _this.news = news.data;
       });
-    },
-    searchNews: function searchNews() {
-      console.log($(this));
     }
   }
 });
