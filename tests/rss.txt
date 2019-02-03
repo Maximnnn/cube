@@ -1,0 +1,621 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <atom:link href="https://www.tvnet.lv/rss" rel="self" type="application/rss+xml"/>
+    <generator>RSS Generator 2.1.1</generator>
+    <docs>http://www.rssboard.org/rss-specification</docs>
+    <title>TVNET</title>
+    <language>lv</language>
+    <pubDate>Sat, 02 Feb 2019 20:27:07 +0000</pubDate>
+    <link>https://www.tvnet.lv</link>
+    <description/>
+    <image>
+      <url>https://f.pmo.ee/logos/4133/fa4cd9b571a34bb11ef49460ad2ae13f.png</url>
+      <title>TVNET</title>
+      <link>https://www.tvnet.lv</link>
+      <width>400</width>
+      <height>87</height>
+      <description/>
+    </image>
+    <item>
+      <title>Vecvagaram spilgta debija "Jūrmala"/"Betsafe" sastāvā; spēli pārceļ uz citu zāli</title>
+      <description>Latviešu saspēles vadītājs Kaspars Vecvagars sestdien "Jūrmala"/"Betsafe" komandā debitēja ar 27 punktiem un uzvaru "OlyBet" Latvijas-Igaunijas Basketbola līgas mačā.</description>
+      <link>https://pmo.ee/6514312</link>
+      <guid isPermaLink="false">pm#6514312</guid>
+      <pubDate>Sat, 02 Feb 2019 21:55:28 +0200</pubDate>
+      <author>LETA</author>
+      <category domain="https://www.tvnet.lv">TVNET</category>
+      <category domain="https://www.tvnet.lv/section/4232">Sports</category>
+      <category domain="https://www.tvnet.lv/section/4248">Basketbols</category>
+      <enclosure url="https://f8.pmo.ee/MlQ7JnVaENaCZYbDP-rwY2ISxFI=/480x270/filters:focal(728x38:1189x801)/nginx/o/2018/09/04/11381483t1h13fb.jpg" length="" type="image/jpeg"/>
+    </item>
+    <item>
+      <title>Bukša sacensībās Vācijā atkārto personīgo rekordu 60 metros</title>
+      <description>Latvijas vadošā sprintere Sindija Bukša sestdien starptautiskās vieglatlētikas sacensībās Karlsrūē atkārtoja savu personīgo rekordu 60 metros telpās un spēcīgā konkurencē izcīnīja piekto vietu.</description>
+      <link>https://pmo.ee/6514308</link>
+      <guid isPermaLink="false">pm#6514308</guid>
+      <pubDate>Sat, 02 Feb 2019 21:40:35 +0200</pubDate>
+      <author>LETA</author>
+      <category domain="https://www.tvnet.lv">TVNET</category>
+      <category domain="https://www.tvnet.lv/section/4232">Sports</category>
+      <category domain="https://www.tvnet.lv/section/4307">Vieglatlētika</category>
+      <enclosure url="https://f12.pmo.ee/6M8r8TjWPzQZtPRs0_29Qke0n_k=/480x270/smart/nginx/o/2018/07/31/11140217t1h76e4.jpg" length="" type="image/jpeg"/>
+    </item>
+    <item>
+      <title>Venecuēlas gaisa spēku ģenerālis pievienojas Gvaido nometnei</title>
+      <description>Cīņā par varu Venecuēlā kāds augsta ranga militāro aprindu pārstāvis oficiāli pārgājis opozīcijā esošā Venecuēlas Nacionālās sapulces līdera Huana Gvaido pusē. Gaisa spēku ģenerālis Francisko Janešs (Francisco Yánez) darījis zināmu, ka atzīst Huanu Gvaido par prezidenta vietas izpildītāju. Video ierakstā, kas izplatīts sociālajos tīklos, ģenerālis izsaka apsūdzības līdzšinējam „diktatoriskajam” Venecuēlas prezidentam Nikolasam Maduro, kurš pašlaik tikai ar armijas atbalstu cenšas noturēties pie varas.</description>
+      <link>https://pmo.ee/6514280</link>
+      <guid isPermaLink="false">pm#6514280</guid>
+      <pubDate>Sat, 02 Feb 2019 20:45:15 +0200</pubDate>
+      <author>TVNET</author>
+      <category domain="https://www.tvnet.lv">TVNET</category>
+      <category domain="https://www.tvnet.lv/section/4221">Ziņas</category>
+      <category domain="https://www.tvnet.lv/section/4225">Ārvalstīs</category>
+      <enclosure url="https://f8.pmo.ee/ziv3FPsryF_u4AZhtrZwY5pk6Ys=/480x270/smart/nginx/o/2019/02/02/11762372t1hee8f.jpg" length="" type="image/jpeg"/>
+    </item>
+    <item>
+      <title>Ilgi gaidītā Gastronomijas paviljona atklāšana. Ko domā par cenām?</title>
+      <description>Rīgas Centrāltirgū šodien atvērts pirmais iekštelpu gastro tirgus Latvijā, kurā vairāk nekā 20 dažādi ēdinātāji un divi bāri piedāvā apmeklētājiem starptautisko un vietējo ēdienu klāstu. Arī cenas ēdieniem ir ar tendenci tuvināties attīstītākām Eiropas valstīm.</description>
+      <link>https://pmo.ee/6514287</link>
+      <guid isPermaLink="false">pm#6514287</guid>
+      <pubDate>Sat, 02 Feb 2019 20:36:58 +0200</pubDate>
+      <author>TVNET</author>
+      <category domain="https://www.tvnet.lv">TVNET</category>
+      <category domain="https://www.tvnet.lv/section/4221">Ziņas</category>
+      <category domain="https://www.tvnet.lv/section/4222">Latvijā</category>
+      <enclosure url="https://f9.pmo.ee/NkGP2-Mu7jIs5pdUEs3UcOo9ed0=/480x270/smart/nginx/o/2019/02/02/11762292t1ha471.jpg" length="" type="image/jpeg"/>
+    </item>
+    <item>
+      <title>FOTO: Ilgi gaidītā Gastronomijas paviljona atklāšana. Ko domā par cenām?</title>
+      <description/>
+      <link>https://pmo.ee/6514284</link>
+      <guid isPermaLink="false">pm#6514284</guid>
+      <pubDate>Sat, 02 Feb 2019 20:32:45 +0200</pubDate>
+      <author>TVNET</author>
+      <category domain="https://foto.tvnet.lv">TVNET Foto</category>
+      <enclosure url="https://f8.pmo.ee/sKYxNVAugsyto2U95mw6z1UFRuU=/480x270/filters:focal(282x139:1109x978)/nginx/o/2019/02/02/11762253t1ha6e1.jpg" length="" type="image/jpeg"/>
+    </item>
+    <item>
+      <title>Fizdeils par sarunu ar Porziņģi: Mēs pat nedaudz pasmējāmies</title>
+      <description>Tiešām jutu, ka mums ar Kristapu Porziņģi bija labas attiecības, atzinis Nacionālās basketbola asociācijas (NBA) kluba Ņujorkas "Knicks" galvenais treneris Deivids Fizdeils.</description>
+      <link>https://pmo.ee/6514266</link>
+      <guid isPermaLink="false">pm#6514266</guid>
+      <pubDate>Sat, 02 Feb 2019 20:32:14 +0200</pubDate>
+      <author>TVNET Sports</author>
+      <category domain="https://www.tvnet.lv">TVNET</category>
+      <category domain="https://www.tvnet.lv/section/4232">Sports</category>
+      <category domain="https://www.tvnet.lv/section/4248">Basketbols</category>
+      <enclosure url="https://f8.pmo.ee/dqBGFeo6YejamVxy1U-tmwy0Q-U=/480x270/filters:focal(124x0:1364x785)/nginx/o/2018/11/19/11587014t1h76f6.jpg" length="" type="image/jpeg"/>
+    </item>
+    <item>
+      <title>Sniega haoss Ziemeļitālijā; slēgta Brennera kalnu pāreja</title>
+      <description>Itālijas ziemeļos, Dienvidtirolē pie Austrijas robežas sniega lavīna sestdien skārusi tā saukto Brennera autostrādi (A22), kas pašlaik ir slēgta, radot lielus sastrēgumus un apgrūtinot atpūtnieku pārvietošanos. Cilvēki sniega lavīnā nav cietuši, taču pamatīga snigšana apgrūtina satiksmi arī daudzviet citur Itālijas ziemeļos, ziņo aģentūra ANSA.</description>
+      <link>https://pmo.ee/6514247</link>
+      <guid isPermaLink="false">pm#6514247</guid>
+      <pubDate>Sat, 02 Feb 2019 20:05:44 +0200</pubDate>
+      <author>TVNET</author>
+      <category domain="https://www.tvnet.lv">TVNET</category>
+      <category domain="https://www.tvnet.lv/section/4221">Ziņas</category>
+      <category domain="https://www.tvnet.lv/section/4225">Ārvalstīs</category>
+      <enclosure url="https://f8.pmo.ee/Cj3m06hTZudwl-CKi5B9Arjht2c=/480x270/smart/nginx/o/2019/02/02/11762033t1hf2a0.jpg" length="" type="image/jpeg"/>
+    </item>
+    <item>
+      <title>Bērziņa vadītajai bobsleja ekipāžai 16. vieta pasaules junioru čempionātā</title>
+      <description>Vācijas trasē Kēnigszē sestdien notika pasaules junioru čempionāts bobslejā junioriem divnieku ekipāžām. 30 ekipāžu konkurencē Ralfs Bērziņš kopā ar Lauri Kaufmani ieņēma 16. vietu, Helvijam Babrim ar Edgaru Nemmi 22. vieta, Dāvis Kaufmanis ar Edgaru Pirogu - 27. pozīcija.</description>
+      <link>https://pmo.ee/6514269</link>
+      <guid isPermaLink="false">pm#6514269</guid>
+      <pubDate>Sat, 02 Feb 2019 20:00:43 +0200</pubDate>
+      <author>TVNET Sports</author>
+      <author>bobslejs.lv</author>
+      <category domain="https://www.tvnet.lv">TVNET</category>
+      <category domain="https://www.tvnet.lv/section/4232">Sports</category>
+      <category domain="https://www.tvnet.lv/section/4288">Ziemas sports</category>
+      <enclosure url="https://f8.pmo.ee/iQJuqIPdd7U7vA9zh-TeKehCk5E=/480x270/filters:focal(2608x643:3734x2091)/nginx/o/2019/01/19/11725992t1h1dd6.jpg" length="" type="image/jpeg"/>
+    </item>
+    <item>
+      <title>Ankipāns: Spēle zem klajas debess būs svētki, bet sagaidu divus punktus</title>
+      <description>Rīgas "Dinamo" nākamā tikšanās ar Minskas "Dinamo" zem klajas debess būs svētki, taču galvenais tajā būs izcīnīt divus punktus, uzsver rīdzinieku galvenais treneris Ģirts Ankipāns.</description>
+      <link>https://pmo.ee/6514263</link>
+      <guid isPermaLink="false">pm#6514263</guid>
+      <pubDate>Sat, 02 Feb 2019 19:44:16 +0200</pubDate>
+      <author>LETA</author>
+      <category domain="https://www.tvnet.lv">TVNET</category>
+      <category domain="https://www.tvnet.lv/section/4232">Sports</category>
+      <category domain="https://www.tvnet.lv/section/4233">Hokejs</category>
+      <enclosure url="https://f12.pmo.ee/Ihu_V43tRqwxC3v1wZoXBpB0sc8=/480x270/filters:focal(1277x436:2786x2415)/nginx/o/2019/01/29/11750199t1h2ece.jpg" length="" type="image/jpeg"/>
+    </item>
+    <item>
+      <title>Kā “Supernova 2019” otrā pusfināla dalībnieki gatavojas lielajam iznācienam</title>
+      <description>Šovakar LTV1 tiešraidē pulksten 21:25 norisināsies konkursa "Supernova 2019" otrais pusfināls, kurā piedalīsies "Dziļi Violets feat. Kozmens", Kristīne Pastare (Peress), "Laika Upe", "Carousel", Kristiāna Bumbiere, "Double Faced Eels", Adriana Miglāne un Markus Riva. Piedāvājam foto ieskatu otrā pusfināla ģenerālmēģinājuma aizkulisēs!</description>
+      <link>https://pmo.ee/6514261</link>
+      <guid isPermaLink="false">pm#6514261</guid>
+      <pubDate>Sat, 02 Feb 2019 19:39:59 +0200</pubDate>
+      <author>TVNET</author>
+      <category domain="https://www.tvnet.lv">TVNET</category>
+      <category domain="https://www.tvnet.lv/section/4238">Sejas</category>
+      <category domain="https://www.tvnet.lv/section/4266">Šovbizness</category>
+      <enclosure url="https://f12.pmo.ee/wbSIn3_W-jV8wAgR3ekaP9T_l1U=/480x270/filters:focal(1571x574:3066x1480)/nginx/o/2019/02/02/11762089t1h4afd.jpg" length="" type="image/jpeg"/>
+    </item>
+    <item>
+      <title>Daugaviņš gūst 13. vārtus šosezon KHL</title>
+      <description>Neveiksmes Kontinentālās hokeja līgas (KHL) regulārā čempionāta spēlēs sestdien cieta Latvijas hokejistu pārstāvētās komandas, vienīgajam izceļoties Kasparam Daugaviņam, kurš guva vārtus Maskavas "Spartak" zaudējumā.</description>
+      <link>https://pmo.ee/6514251</link>
+      <guid isPermaLink="false">pm#6514251</guid>
+      <pubDate>Sat, 02 Feb 2019 19:11:57 +0200</pubDate>
+      <author>LETA</author>
+      <category domain="https://www.tvnet.lv">TVNET</category>
+      <category domain="https://www.tvnet.lv/section/4232">Sports</category>
+      <category domain="https://www.tvnet.lv/section/4233">Hokejs</category>
+      <enclosure url="https://f7.pmo.ee/X_lX42Asxk7x4qT-e4MxnNp8RFY=/480x270/smart/nginx/o/2019/01/31/11756205t1hc35a.jpg" length="" type="image/jpeg"/>
+    </item>
+    <item>
+      <title>Latvijas telpu futbola izlase uzvar Angliju un sasniedz PK kvalifikācijas pamatturnīru</title>
+      <description>Latvijas telpu futbola izlase sestdien Jelgavā sasniedza 2020.gada Pasaules kausa kvalifikācijas pamatturnīru.</description>
+      <link>https://pmo.ee/6514245</link>
+      <guid isPermaLink="false">pm#6514245</guid>
+      <pubDate>Sat, 02 Feb 2019 18:58:18 +0200</pubDate>
+      <author>LETA</author>
+      <category domain="https://www.tvnet.lv">TVNET</category>
+      <category domain="https://www.tvnet.lv/section/4232">Sports</category>
+      <category domain="https://www.tvnet.lv/section/4242">Futbols</category>
+      <enclosure url="https://f8.pmo.ee/FhzMqw6WdnBbSanoFiP24tG57CA=/480x270/filters:focal(305x16:421x83)/nginx/o/2019/01/31/11756147t1h74c5.jpg" length="" type="image/jpeg"/>
+    </item>
+    <item>
+      <title>Gvaido aicina venecuēliešus un starptautisko sabiedrību piedalīties protestā</title>
+      <description>Venecuēlas opozīcijas kontrolētās Nacionālās sapulces spīkers Huans Gvaido, kurš sevi pasludinājis par prezidenta pienākumu izpildītāju, aicinājis cilvēkus sestdien valstī un ārzemēs piedalīties protestā pret prezidentu Nikolasu Maduro.</description>
+      <link>https://pmo.ee/6514236</link>
+      <guid isPermaLink="false">pm#6514236</guid>
+      <pubDate>Sat, 02 Feb 2019 18:19:34 +0200</pubDate>
+      <author>LETA/AFP</author>
+      <category domain="https://www.tvnet.lv">TVNET</category>
+      <category domain="https://www.tvnet.lv/section/4221">Ziņas</category>
+      <category domain="https://www.tvnet.lv/section/4225">Ārvalstīs</category>
+      <enclosure url="https://f11.pmo.ee/ZE5_A7Sekw1ligPVDxplt-Rf4Cc=/480x270/smart/nginx/o/2019/02/02/11761783t1hfc6a.jpg" length="" type="image/jpeg"/>
+    </item>
+    <item>
+      <title>Balcers izsaukts atpakaļ uz NHL komandu "Senators"</title>
+      <description>Latviešu uzbrucējs Rūdolfs Balcers sestdien tika izsaukts atpakaļ uz Nacionālās hokeja līgas (NHL) komandu Otavas "Senators".</description>
+      <link>https://pmo.ee/6514211</link>
+      <guid isPermaLink="false">pm#6514211</guid>
+      <pubDate>Sat, 02 Feb 2019 17:35:10 +0200</pubDate>
+      <author>LETA</author>
+      <category domain="https://www.tvnet.lv">TVNET</category>
+      <category domain="https://www.tvnet.lv/section/4232">Sports</category>
+      <category domain="https://www.tvnet.lv/section/4233">Hokejs</category>
+      <enclosure url="https://f9.pmo.ee/Rlbw7sH8J6xlkv1DEulEL_FKvf4=/480x270/filters:focal(389x45:627x344)/nginx/o/2019/01/17/11720164t1h2ff2.jpg" length="" type="image/jpeg"/>
+    </item>
+    <item>
+      <title>Politiski represētie konferencē apspriež "čekas maisus", rehabilitāciju un memoriālu stāvokli</title>
+      <description>Latvijas Politiski represēto apvienības (LPRA) gadskārtējā konferencē sestdien apspriesti jautājumi saistībā ar tā dēvētājiem "čekas maisiem", sociālo rehabilitāciju un represēto personu piemiņai veltīto memoriālu stāvokli, pastāstīja LPRA priekšsēdētājs Ivars Kaļķis.</description>
+      <link>https://pmo.ee/6514212</link>
+      <guid isPermaLink="false">pm#6514212</guid>
+      <pubDate>Sat, 02 Feb 2019 17:25:11 +0200</pubDate>
+      <author>LETA</author>
+      <category domain="https://www.tvnet.lv">TVNET</category>
+      <category domain="https://www.tvnet.lv/section/4221">Ziņas</category>
+      <category domain="https://www.tvnet.lv/section/4222">Latvijā</category>
+      <enclosure url="https://f11.pmo.ee/cp59OoHIp1ITIOxoeUvRgHDJeU0=/480x270/smart/nginx/o/2019/02/02/11761754t1h58bc.jpg" length="" type="image/jpeg"/>
+    </item>
+    <item>
+      <title>Plastmasas atkritumi – laba iespēja zinātniekiem</title>
+      <description>Šā gada sākumā Ziemeļjūrā no Eiropā lielākā kravas kuģa „MSC Zoe” spēcīgā vētrā ūdenī iekrita 270 konteineri ar dažādām mantām – sandalēm, apģērbiem, bērnu rotaļlietām, televizoriem un arī bīstamām ķimikālijām. Kaut nevar noliegt, ka šāda katastrofa nodara dabai lielu ļaunumu, zinātnieki tomēr cer no šā gadījuma iegūt arī kādu labumu, proti, vērtīgus datus par okeānu straumēm, sāļā jūras ūdens ietekmi uz plastmasu un citiem materiāliem, kā arī vēl virkni datu, tā, atsaucoties uz Utrehtas Universitātes okeanogrāfu Ēriku van Sebilli, ziņo laikraksts „Die Welt”. Viņš jau piecus gadus vada projektu TOPIOS, kura nolūks ir noskaidrot, kā plastmasas atkritumi pārvietojas pasaules okeānos.</description>
+      <link>https://pmo.ee/6514201</link>
+      <guid isPermaLink="false">pm#6514201</guid>
+      <pubDate>Sat, 02 Feb 2019 17:19:42 +0200</pubDate>
+      <author>TVNET</author>
+      <category domain="https://www.tvnet.lv">TVNET</category>
+      <category domain="https://www.tvnet.lv/section/4221">Ziņas</category>
+      <category domain="https://www.tvnet.lv/section/4237">Ekoloģija</category>
+      <enclosure url="https://f11.pmo.ee/vI1fNy96sNZLYivlUoGE9Z69IL0=/480x270/smart/nginx/o/2019/02/02/11761607t1hd55d.jpg" length="" type="image/jpeg"/>
+    </item>
+    <item>
+      <title>Pabriks: ASV izstāšanās no raķešu līguma ir sekas Krievijas rīcībai</title>
+      <description>ASV izstāšanās no Līguma par vidējā un tuvā darbības rādiusa raķešu likvidāciju (INFT) ir tiešās sekas tam, ka Krievija pārkāpj starptautiskās vienošanās un uzskata, ka par to nekas nekad nebūs, mikroblogošanas vietnē "Twitter" raksta aizsardzības ministrs Artis Pabriks (AP).</description>
+      <link>https://pmo.ee/6514207</link>
+      <guid isPermaLink="false">pm#6514207</guid>
+      <pubDate>Sat, 02 Feb 2019 17:16:17 +0200</pubDate>
+      <author>LETA</author>
+      <category domain="https://www.tvnet.lv">TVNET</category>
+      <category domain="https://www.tvnet.lv/section/4221">Ziņas</category>
+      <category domain="https://www.tvnet.lv/section/4244">Viedokļi</category>
+      <enclosure url="https://f9.pmo.ee/5SnL2Xkya784qcyIFMiPdxdnBCQ=/480x270/smart/nginx/o/2018/12/11/11646035t1h9828.jpg" length="" type="image/jpeg"/>
+    </item>
+    <item>
+      <title>Irāna izmēģinājusi jaunu spārnoto raķeti</title>
+      <description>Irāna izmēģinājusi jaunu spārnoto raķeti, sestdien vēsta vietējie mediji.</description>
+      <link>https://pmo.ee/6514203</link>
+      <guid isPermaLink="false">pm#6514203</guid>
+      <pubDate>Sat, 02 Feb 2019 17:10:41 +0200</pubDate>
+      <author>LETA/DPA</author>
+      <category domain="https://www.tvnet.lv">TVNET</category>
+      <category domain="https://www.tvnet.lv/section/4221">Ziņas</category>
+      <category domain="https://www.tvnet.lv/section/4225">Ārvalstīs</category>
+      <enclosure url="https://f11.pmo.ee/Iu-vBW5FfwPxrUbM_DuHXzfupJ0=/480x270/smart/nginx/o/2018/11/14/11573000t1h4a16.jpg" length="" type="image/jpeg"/>
+    </item>
+    <item>
+      <title>Latvijas kamaniņu braucējiem 4. vieta pasaules junioru čempionāta stafetē</title>
+      <description>Latvijas kamaniņu braucēji Anda Upīte, Gints Bērziņš un divnieks Eduards Ševics-Mikeļševics/Lūkass Krasts sestdien Īglsas trasē Austrijā izcīnīja ceturto vietu pasaules čempionātā junioriem komandu stafetē.</description>
+      <link>https://pmo.ee/6514195</link>
+      <guid isPermaLink="false">pm#6514195</guid>
+      <pubDate>Sat, 02 Feb 2019 16:51:57 +0200</pubDate>
+      <author>LETA</author>
+      <category domain="https://www.tvnet.lv">TVNET</category>
+      <category domain="https://www.tvnet.lv/section/4232">Sports</category>
+      <category domain="https://www.tvnet.lv/section/4288">Ziemas sports</category>
+      <enclosure url="https://f7.pmo.ee/FaiMVgtLxQDrAQdZv5YHXecXLbY=/480x270/filters:focal(1089x529:2731x1657)/nginx/o/2019/02/02/11761596t1h30f7.jpg" length="" type="image/jpeg"/>
+    </item>
+    <item>
+      <title>Ukraina plāno masveidā iepirkt ieročus no ASV</title>
+      <description>Ukraina ir ieinteresēta sākt masveidā iepirkt no ASV augstas tehnoloģijas aizsardzības bruņojumu, paziņojusi Ukrainas vicepremjere Eiropas un eiroatlantiskās integrācijas lietās Ivanna Klimpuša-Cincadze.</description>
+      <link>https://pmo.ee/6514174</link>
+      <guid isPermaLink="false">pm#6514174</guid>
+      <pubDate>Sat, 02 Feb 2019 16:14:17 +0200</pubDate>
+      <author>LETA/KORRESPONDENT.NET</author>
+      <category domain="https://www.tvnet.lv">TVNET</category>
+      <category domain="https://www.tvnet.lv/section/4221">Ziņas</category>
+      <category domain="https://www.tvnet.lv/section/4225">Ārvalstīs</category>
+      <enclosure url="https://f11.pmo.ee/JKXB9T_myF-uwy6lwM7My6zGigI=/480x270/filters:focal(2649x261:3956x2069)/nginx/o/2018/11/26/11602982t1h4002.jpg" length="" type="image/jpeg"/>
+    </item>
+    <item>
+      <title>Izstāšanās no raķešu likvidācijas līguma ASV sniedz iespēju izdarīt papildu spiedienu pret Ķīnu</title>
+      <description>Izstāšanās no Līguma par vidējā un tuvā darbības rādiusa raķešu likvidāciju (INFT) ASV sniedz iespēju izdarīt papildu spiedienu pret Ķīnu, kas prezidenta Donalda Trampa uztverē ir lielāks konkurents, sacīja Latvijas Ārpolitikas institūta (LĀI) direktors Andris Sprūds.</description>
+      <link>https://pmo.ee/6514171</link>
+      <guid isPermaLink="false">pm#6514171</guid>
+      <pubDate>Sat, 02 Feb 2019 16:08:12 +0200</pubDate>
+      <author>LETA</author>
+      <category domain="https://www.tvnet.lv">TVNET</category>
+      <category domain="https://www.tvnet.lv/section/4221">Ziņas</category>
+      <category domain="https://www.tvnet.lv/section/4244">Viedokļi</category>
+      <enclosure url="https://f8.pmo.ee/V3Qc5ZH5mml9JkqrezM5m5ezBGo=/480x270/filters:focal(0x0:3490x2990)/nginx/o/2019/01/06/11697905t1hb57b.jpg" length="" type="image/jpeg"/>
+    </item>
+    <item>
+      <title>Siguldā aiztur sānslīdē pa pilsētas ielām braucošu dzērājšoferi</title>
+      <description>Siguldā aizturēts autovadītājs, kurš pie stūres bija sēdies alkohola reibumā, turklāt pa pilsētas ielām apzināti braucis sānslīdē, informēja Siguldas novada Pašvaldības policijā.</description>
+      <link>https://pmo.ee/6514169</link>
+      <guid isPermaLink="false">pm#6514169</guid>
+      <pubDate>Sat, 02 Feb 2019 16:03:58 +0200</pubDate>
+      <author>LETA</author>
+      <category domain="https://www.tvnet.lv">TVNET</category>
+      <category domain="https://www.tvnet.lv/section/4221">Ziņas</category>
+      <category domain="https://www.tvnet.lv/section/4331">Satiksme</category>
+      <enclosure url="https://f10.pmo.ee/w9vuyiwDHIqN2JOk2c9WhIbYUFQ=/480x270/smart/nginx/o/2018/09/02/11364216t1hb419.jpg" length="" type="image/jpeg"/>
+    </item>
+    <item>
+      <title>Jauns un garšīgs Latvijas apceļošanas veids: vīna darītavu tūre</title>
+      <description>Latvijas Vīnkopju un Vīndaru Biedrība (LVVB) sadarbībā ar divpadsmit vīna darītavām atklājusi vēl Latvijā neredzētu projektu – mājas lapu (www.latvijasvinature.lv), kura kalpos kā pārskatāms ceļvedis ikvienam interesentam, kurš vēlas doties tūrē pa Latvijas vīna darītavām.</description>
+      <link>https://pmo.ee/6513541</link>
+      <guid isPermaLink="false">pm#6513541</guid>
+      <pubDate>Sat, 02 Feb 2019 15:54:00 +0200</pubDate>
+      <author>Egoiste</author>
+      <category domain="https://www.tvnet.lv">TVNET</category>
+      <category domain="https://www.tvnet.lv/section/4214">Egoiste</category>
+      <category domain="https://www.tvnet.lv/section/4262">Garšas baudas</category>
+      <enclosure url="https://f9.pmo.ee/_zDa8sm-y5_6un6wFtK1ZFQuNbo=/480x270/smart/nginx/o/2019/02/01/11758587t1h6758.jpg" length="" type="image/jpeg"/>
+    </item>
+    <item>
+      <title>Aparjods sniegotajā Altenbergā izcīna 7. vietu PK posmā</title>
+      <description>Latvijas kamaniņu braucējs Kristers Aparjods sestdien sniegotos laikapstākļos izcīnīja septīto vietu Altenbergas trasē notiekošā Pasaules kausa septītā posma sacensībās.</description>
+      <link>https://pmo.ee/6514144</link>
+      <guid isPermaLink="false">pm#6514144</guid>
+      <pubDate>Sat, 02 Feb 2019 15:33:07 +0200</pubDate>
+      <author>LETA</author>
+      <category domain="https://www.tvnet.lv">TVNET</category>
+      <category domain="https://www.tvnet.lv/section/4232">Sports</category>
+      <category domain="https://www.tvnet.lv/section/4288">Ziemas sports</category>
+      <enclosure url="https://f9.pmo.ee/MD9WJW2ZBI54V6rbxZImcvgyWRI=/480x270/smart/nginx/o/2019/01/13/11712407t1h8b0f.jpg" length="" type="image/jpeg"/>
+    </item>
+    <item>
+      <title>Rīgas "Dinamo" cieš zaudējumu Minskā</title>
+      <description>Rīgas "Dinamo" komanda sestdien cieta zaudējumu Kontinentālās hokeja līgas (KHL) regulārā čempionāta mačā, izbraukumā ar rezultātu 1:3 (0:0, 1:1, 0:2) piekāpjoties Baltkrievijas klubam Minskas "Dinamo".</description>
+      <link>https://pmo.ee/6514093</link>
+      <guid isPermaLink="false">pm#6514093</guid>
+      <pubDate>Sat, 02 Feb 2019 15:30:00 +0200</pubDate>
+      <author>TVNET Sports</author>
+      <author>LETA</author>
+      <category domain="https://www.tvnet.lv">TVNET</category>
+      <category domain="https://www.tvnet.lv/section/4232">Sports</category>
+      <category domain="https://www.tvnet.lv/section/4233">Hokejs</category>
+      <enclosure url="https://f10.pmo.ee/xWMDFVFyFFwTAAg_j3WYEcgJI8A=/480x270/filters:focal(1716x157:2456x939)/nginx/o/2019/01/22/11731961t1hd38b.jpg" length="" type="image/jpeg"/>
+    </item>
+    <item>
+      <title>Latvijas florbolistes sagrauj Nīderlandi un kvalificējas pasaules čempionātam</title>
+      <description>Latvijas sieviešu florbola izlase sestdien Slovākijā 2019.gada pasaules čempionāta (PČ) kvalifikācijas turnīra otrajā spēlē ar rezultātu 11:2 (5:1, 2:0, 4:1) pārspēja Nīderlandi, kvalificējoties planētas meistarsacīkšu finālturnīram.</description>
+      <link>https://pmo.ee/6514124</link>
+      <guid isPermaLink="false">pm#6514124</guid>
+      <pubDate>Sat, 02 Feb 2019 14:57:50 +0200</pubDate>
+      <author>LETA</author>
+      <category domain="https://www.tvnet.lv">TVNET</category>
+      <category domain="https://www.tvnet.lv/section/4232">Sports</category>
+      <category domain="https://www.tvnet.lv/section/4306">Citi sporta veidi</category>
+      <enclosure url="https://f9.pmo.ee/MNkR29zfJ1m_GZVx4SHJHEgo1_4=/480x270/smart/nginx/o/2019/02/02/11760875t1ha4c4.jpg" length="" type="image/jpeg"/>
+    </item>
+    <item>
+      <title>Itālijas prokuratūra nav atradusi nekādus kuģa "Sea Watch 3" likumpārkāpumus</title>
+      <description>Itālijas prokuratūra nav atradusi nekādus Vācijas aktīvistu kuģa "Sea Watch 3" likumpārkāpumus, kuru krasta apsardze aizturējusi Sicīlijas ostā.</description>
+      <link>https://pmo.ee/6514128</link>
+      <guid isPermaLink="false">pm#6514128</guid>
+      <pubDate>Sat, 02 Feb 2019 14:54:46 +0200</pubDate>
+      <author>LETA/DPA</author>
+      <category domain="https://www.tvnet.lv">TVNET</category>
+      <category domain="https://www.tvnet.lv/section/4221">Ziņas</category>
+      <category domain="https://www.tvnet.lv/section/4225">Ārvalstīs</category>
+      <enclosure url="https://f9.pmo.ee/nNSBuKPSTSPfO8uKZbWc35FMDUs=/480x270/smart/nginx/o/2019/01/30/11752273t1h16ec.jpg" length="" type="image/jpeg"/>
+    </item>
+    <item>
+      <title>Svētdien līņās un strauji kusīs sniegs</title>
+      <description>Svētdien gan naktī, gan dienā visā Latvijā gaisa temperatūra būs virs nulles un palaikam nedaudz līs, vairāk līs nakts pirmajā pusē, prognozē sinoptiķi. Būs arī dūmaka, vietām - migla. Saglabāsies apmākušās debesis.</description>
+      <link>https://pmo.ee/6514122</link>
+      <guid isPermaLink="false">pm#6514122</guid>
+      <pubDate>Sat, 02 Feb 2019 14:49:57 +0200</pubDate>
+      <author>LETA</author>
+      <category domain="https://ciklons.tvnet.lv">Ciklons - TVNET</category>
+      <category domain="https://ciklons.tvnet.lv/section/4226">Laika ziņas</category>
+      <enclosure url="https://f8.pmo.ee/3o6RPHS0fAhwfuq7fGT7nmsN8h0=/480x270/smart/nginx/o/2018/07/16/9745762t1hd9b4.jpg" length="" type="image/jpeg"/>
+    </item>
+    <item>
+      <title>Par ģipša eņģeļa zādzību kapos piespriež pusgadu aiz restēm</title>
+      <description>Rīgas pilsētas Latgales priekšpilsētas tiesa piespriedusi sešus mēnešus ilgu ieslodzījumu kādai personai, kura pērn augustā kapos nolaupīja ģipša eņģeļa skulptūru, liecina publiski pieejamais anonimizētais tiesas spriedums.</description>
+      <link>https://pmo.ee/6514119</link>
+      <guid isPermaLink="false">pm#6514119</guid>
+      <pubDate>Sat, 02 Feb 2019 14:33:17 +0200</pubDate>
+      <author>LETA</author>
+      <category domain="https://www.tvnet.lv">TVNET</category>
+      <category domain="https://www.tvnet.lv/section/4221">Ziņas</category>
+      <category domain="https://www.tvnet.lv/section/4234">Kriminālziņas</category>
+      <enclosure url="https://f8.pmo.ee/F3RaULSEVqdyMOWIwlcFA5rb2SQ=/480x270/filters:focal(593x608:2893x1856)/nginx/o/2018/11/07/11555886t1hdb2b.jpg" length="" type="image/jpeg"/>
+    </item>
+    <item>
+      <title>Jau iespējams pasūtīt "Mavericks" fanu kreklus ar Porziņģa uzvārdu</title>
+      <description>Nacionālās basketbola asociācijas (NBA) komandas Dalasas "Mavericks" mājaslapā jau iespējams pasūtīt fanu kreklus ar Kristapa Porziņģa uzvārdu uz muguras un numuru 6.</description>
+      <link>https://pmo.ee/6514111</link>
+      <guid isPermaLink="false">pm#6514111</guid>
+      <pubDate>Sat, 02 Feb 2019 14:23:47 +0200</pubDate>
+      <author>TVNET Sports</author>
+      <category domain="https://www.tvnet.lv">TVNET</category>
+      <category domain="https://www.tvnet.lv/section/4232">Sports</category>
+      <category domain="https://www.tvnet.lv/section/4248">Basketbols</category>
+      <enclosure url="https://f12.pmo.ee/f005ouqbT77o2E_Uo-gb0gQb1GM=/480x270/filters:focal(311x73:1388x982)/nginx/o/2019/02/02/11760757t1h3d63.png" length="" type="image/png"/>
+    </item>
+    <item>
+      <title>Gulbis Monpeljē turnīra pirmajā kārtā tiksies ar poli Hurkaču</title>
+      <description>Latvijas vīru tenisa pirmā rakete Ernests Gulbis Francijā gaidāmā Monpeljē "ATP World Tour 250" sērijas turnīra pirmajā kārtā tiksies ar poli Hubertu Hurkaču.</description>
+      <link>https://pmo.ee/6514108</link>
+      <guid isPermaLink="false">pm#6514108</guid>
+      <pubDate>Sat, 02 Feb 2019 14:06:52 +0200</pubDate>
+      <author>LETA</author>
+      <category domain="https://www.tvnet.lv">TVNET</category>
+      <category domain="https://www.tvnet.lv/section/4232">Sports</category>
+      <category domain="https://www.tvnet.lv/section/4285">Teniss</category>
+      <enclosure url="https://f11.pmo.ee/Oo5mRiz2_wgRr1c1xWGqdqxOhyc=/480x270/filters:focal(1251x77:1882x759)/nginx/o/2019/01/15/11716007t1h37d2.jpg" length="" type="image/jpeg"/>
+    </item>
+    <item>
+      <title>NATO nākamnedēļ parakstīs pievienošanās protokolu ar Maķedoniju</title>
+      <description>NATO sestdien paziņoja, ka tās 29 dalībvalstis trešdien parakstīs protokolu par Maķedonijas pievienošanos NATO.</description>
+      <link>https://pmo.ee/6514097</link>
+      <guid isPermaLink="false">pm#6514097</guid>
+      <pubDate>Sat, 02 Feb 2019 13:40:48 +0200</pubDate>
+      <author>LETA/AFP</author>
+      <category domain="https://www.tvnet.lv">TVNET</category>
+      <category domain="https://www.tvnet.lv/section/4221">Ziņas</category>
+      <category domain="https://www.tvnet.lv/section/4225">Ārvalstīs</category>
+      <enclosure url="https://f12.pmo.ee/R-6clmMcuFBJ5MsWuSk-udh8x0A=/480x270/filters:focal(997x62:2013x1020)/nginx/o/2018/10/30/11536883t1h7b23.jpg" length="" type="image/jpeg"/>
+    </item>
+    <item>
+      <title>Kivlenieks ielaiž septiņas ripas zaudētā AHL mačā</title>
+      <description>Neveiksmīgu maču Amerikas Hokeja līgā (AHL) piektdien aizvadīja latviešu vārtsargs Matīss Edmunds Kivlenieks, kurš neglāba Klīvlendas "Monsters" komandu no zaudējuma.</description>
+      <link>https://pmo.ee/6514091</link>
+      <guid isPermaLink="false">pm#6514091</guid>
+      <pubDate>Sat, 02 Feb 2019 13:30:45 +0200</pubDate>
+      <author>LETA</author>
+      <category domain="https://www.tvnet.lv">TVNET</category>
+      <category domain="https://www.tvnet.lv/section/4232">Sports</category>
+      <category domain="https://www.tvnet.lv/section/4233">Hokejs</category>
+      <enclosure url="https://f8.pmo.ee/Pby6MHLnu_mgB0d0OWNxJ6DIKdY=/480x270/smart/nginx/o/2018/07/31/11145679t1h2163.jpg" length="" type="image/jpeg"/>
+    </item>
+    <item>
+      <title>Asociācija: Vietējā cūkgaļa Latvijas veikalu tīklos pēdējos gados nav kļuvusi pieejamāka</title>
+      <description>Vietējā cūkgaļa Latvijas veikalu tīklos nav kļuvusi pieejamāka salīdzinājumā ar laiku pirms diviem līdz četriem gadiem, atzina Latvijas Cūku audzētāju asociācijas (LCAA) vadītāja Dzintra Lejniece.</description>
+      <link>https://pmo.ee/6514085</link>
+      <guid isPermaLink="false">pm#6514085</guid>
+      <pubDate>Sat, 02 Feb 2019 13:27:22 +0200</pubDate>
+      <author>LETA</author>
+      <category domain="https://www.tvnet.lv">TVNET</category>
+      <category domain="https://www.tvnet.lv/section/4228">Financenet</category>
+      <category domain="https://www.tvnet.lv/section/4229">Nozares</category>
+      <enclosure url="https://f10.pmo.ee/Vq0mxmWX1CM6JF_Fp8A1ry7f3MQ=/480x270/smart/nginx/o/2019/02/02/11760583t1h7605.jpg" length="" type="image/jpeg"/>
+    </item>
+    <item>
+      <title>Skeletonists Netlaus izcīna 8. vietu pasaules čempionātā junioriem</title>
+      <description>Latvijas skeletonists Krists Netlaus sestdien Vācijas trasē Kēnigszē izcīnīja astoto vietu pasaules čempionātā junioriem.</description>
+      <link>https://pmo.ee/6514082</link>
+      <guid isPermaLink="false">pm#6514082</guid>
+      <pubDate>Sat, 02 Feb 2019 13:24:35 +0200</pubDate>
+      <author>LETA</author>
+      <category domain="https://www.tvnet.lv">TVNET</category>
+      <category domain="https://www.tvnet.lv/section/4232">Sports</category>
+      <category domain="https://www.tvnet.lv/section/4288">Ziemas sports</category>
+      <enclosure url="https://f11.pmo.ee/3T2HZ9Cf33M7M3qN9YsDFiMcuN8=/480x270/smart/nginx/o/2018/07/30/11111006t1h57ed.jpg" length="" type="image/jpeg"/>
+    </item>
+    <item>
+      <title>Putins paziņo Krievijas dalības apturēšanu INFT un jaunu raķešu izstrādi</title>
+      <description>Atbildot uz ASV izstāšanos no Līguma par vidējā un tuvā darbības rādiusa raķešu likvidāciju (INFT), arī Krievija aptur savu dalību līgumā un sāk darbu pie jaunu raķešu veidu izstrādes, sestdien paziņoja Krievijas prezidents Vladimirs Putins.</description>
+      <link>https://pmo.ee/6514044</link>
+      <guid isPermaLink="false">pm#6514044</guid>
+      <pubDate>Sat, 02 Feb 2019 13:22:47 +0200</pubDate>
+      <author>LETA/INTERFAX.RU</author>
+      <category domain="https://www.tvnet.lv">TVNET</category>
+      <category domain="https://www.tvnet.lv/section/4221">Ziņas</category>
+      <category domain="https://www.tvnet.lv/section/4225">Ārvalstīs</category>
+      <enclosure url="https://f8.pmo.ee/WEKrBpSP8o_lc-tbhBPeWSrwyZI=/480x270/filters:focal(1206x30:2031x1248)/nginx/o/2018/12/20/11669144t1h3202.jpg" length="" type="image/jpeg"/>
+    </item>
+    <item>
+      <title>Igaunijā avarē pasažieru autobuss; cilvēkus evakuē caur lūku</title>
+      <description>Šo pēcpusdien ap plkst.13:20 Igaunijas dienvidos, Mornā, kas atrodas apmēram 37 kilometrus uz ziemeļiem no Rūjienas, uz sniegota ceļa avarējis pasažieru autobuss, kurā negadījuma brīdī atradās 13 cilvēki, ziņo Postimees. Autobuss noslīdējis no ceļa un sasvēries uz sāniem tieši ar durvīm pret sniegu, tādēļ pasažieri no tā evakuēti caur griestu lūku.</description>
+      <link>https://pmo.ee/6514073</link>
+      <guid isPermaLink="false">pm#6514073</guid>
+      <pubDate>Sat, 02 Feb 2019 13:21:08 +0200</pubDate>
+      <author>TVNET</author>
+      <category domain="https://www.tvnet.lv">TVNET</category>
+      <category domain="https://www.tvnet.lv/section/4221">Ziņas</category>
+      <category domain="https://www.tvnet.lv/section/4225">Ārvalstīs</category>
+      <enclosure url="https://f8.pmo.ee/s-SPBlhRlAl_S1dTskXJ4RXreo4=/480x270/smart/nginx/o/2019/02/02/11760472t1h3600.jpg" length="" type="image/jpeg"/>
+    </item>
+    <item>
+      <title>Kurucs arī janvārī bija nominēts NBA mēneša labākā debitanta balvai</title>
+      <description>Latviešu basketbolists Rodions Kurucs no Bruklinas "Nets" ticis izvirzīts starp pretendentiem uz Nacionālās basketbola asociācijas (NBA) janvāra mēneša labākā debitanta balvu Austrumu konferencē.</description>
+      <link>https://pmo.ee/6514049</link>
+      <guid isPermaLink="false">pm#6514049</guid>
+      <pubDate>Sat, 02 Feb 2019 12:20:16 +0200</pubDate>
+      <author>LETA</author>
+      <category domain="https://www.tvnet.lv">TVNET</category>
+      <category domain="https://www.tvnet.lv/section/4232">Sports</category>
+      <category domain="https://www.tvnet.lv/section/4248">Basketbols</category>
+      <enclosure url="https://f11.pmo.ee/0msp3PJg7CtrEiZA2wktZ-7DAqU=/480x270/filters:focal(315x212:1829x1159)/nginx/o/2019/01/15/11715656t1h733e.jpg" length="" type="image/jpeg"/>
+    </item>
+    <item>
+      <title>Velvere izcīna otro vietu sacensībās Francijā</title>
+      <description>Latvijas vidējo distanču skrējēja Līga Velvere piektdien Francijā izcīnīja otro vietu 800 metru skrējienā starptautiskās iekštelpu sacensībās vieglatlētikā.</description>
+      <link>https://pmo.ee/6514045</link>
+      <guid isPermaLink="false">pm#6514045</guid>
+      <pubDate>Sat, 02 Feb 2019 12:10:10 +0200</pubDate>
+      <author>LETA</author>
+      <category domain="https://www.tvnet.lv">TVNET</category>
+      <category domain="https://www.tvnet.lv/section/4232">Sports</category>
+      <category domain="https://www.tvnet.lv/section/4307">Vieglatlētika</category>
+      <enclosure url="https://f8.pmo.ee/PmByqx-FMNdruQP3pqdcAdwykRU=/480x270/smart/nginx/o/2018/07/15/9086363t1h509a.jpg" length="" type="image/jpeg"/>
+    </item>
+    <item>
+      <title>"VEF Rīga" pievienojas saspēles vadītājs Kouzijs</title>
+      <description>Latvijas vicečempionei basketbolā "VEF Rīga" pievienojies amerikāņu saspēles vadītājs Glens Kouzijs.</description>
+      <link>https://pmo.ee/6514027</link>
+      <guid isPermaLink="false">pm#6514027</guid>
+      <pubDate>Sat, 02 Feb 2019 11:52:50 +0200</pubDate>
+      <author>LETA</author>
+      <category domain="https://www.tvnet.lv">TVNET</category>
+      <category domain="https://www.tvnet.lv/section/4232">Sports</category>
+      <category domain="https://www.tvnet.lv/section/4248">Basketbols</category>
+      <enclosure url="https://f9.pmo.ee/wj0ydwPeA8TJWRmLn_FR7aOS0Tk=/480x270/filters:focal(199x135:541x368)/nginx/o/2019/02/02/11760270t1h96a6.jpg" length="" type="image/jpeg"/>
+    </item>
+    <item>
+      <title>Dž.D.Selindžera dēls sola publicēt tēva neizdotos darbus</title>
+      <description>Amerikāņu rakstnieka Dž.D.Selindžera dēls paziņojis, ka plāno publicēt sava tēva agrāk neizdotos darbus.</description>
+      <link>https://pmo.ee/6514025</link>
+      <guid isPermaLink="false">pm#6514025</guid>
+      <pubDate>Sat, 02 Feb 2019 11:45:13 +0200</pubDate>
+      <author>LETA</author>
+      <category domain="https://www.tvnet.lv">TVNET</category>
+      <category domain="https://www.tvnet.lv/section/4223">Kultūra+</category>
+      <category domain="https://www.tvnet.lv/section/4269">Grāmatas</category>
+      <enclosure url="https://f10.pmo.ee/l2FFctuzAH6PgcR1HVa7RXhd0bw=/480x270/smart/nginx/o/2018/07/16/10206720t1hfdd9.jpg" length="" type="image/jpeg"/>
+    </item>
+    <item>
+      <title>Girgensons pārstāvētā "Sabres" cieš smagu zaudējumu NHL mačā</title>
+      <description>Latviešu uzbrucēja Zemgus Girgensona pārstāvētā Bufalo "Sabres" piektdien cieta smagu zaudējumu Nacionālās hokeja līgas (NHL) regulārā čempionāta mačā.</description>
+      <link>https://pmo.ee/6514021</link>
+      <guid isPermaLink="false">pm#6514021</guid>
+      <pubDate>Sat, 02 Feb 2019 11:42:21 +0200</pubDate>
+      <author>LETA</author>
+      <category domain="https://www.tvnet.lv">TVNET</category>
+      <category domain="https://www.tvnet.lv/section/4232">Sports</category>
+      <category domain="https://www.tvnet.lv/section/4233">Hokejs</category>
+      <enclosure url="https://f7.pmo.ee/p8Zf2T7V27tuDUqjXnLr9lwsdVU=/480x270/filters:focal(2084x50:3063x877)/nginx/o/2019/02/02/11760266t1h75dc.jpg" length="" type="image/jpeg"/>
+    </item>
+    <item>
+      <title>NATO ģenerālsekretārs: Jaunus kodolieročus Eiropā neizvietosim</title>
+      <description>Ziemeļatlantijas aliansei nav padomā izvietot jaunas kodolraķetes Eiropā, tā, reaģējot uz ASV izstāšanos no Līguma par vidējā un tuvā darbības rādiusa raķešu likvidāciju (INFT) un Krievijas jau agrāk īstenoto šī līguma pārkāpšanu, intervijā telekompānijai ZDF pavēstījis NATO ģenerālsekretārs Jenss Stoltenbergs.</description>
+      <link>https://pmo.ee/6514020</link>
+      <guid isPermaLink="false">pm#6514020</guid>
+      <pubDate>Sat, 02 Feb 2019 11:41:06 +0200</pubDate>
+      <author>TVNET</author>
+      <category domain="https://www.tvnet.lv">TVNET</category>
+      <category domain="https://www.tvnet.lv/section/4221">Ziņas</category>
+      <category domain="https://www.tvnet.lv/section/4225">Ārvalstīs</category>
+      <enclosure url="https://f8.pmo.ee/HbKeK40b0Na12XUapL4-dCPawYk=/480x270/smart/nginx/o/2018/11/26/11604485t1hb15f.jpg" length="" type="image/jpeg"/>
+    </item>
+    <item>
+      <title>Brāļi Šici izcīna medaļu Pasaules kausa posmā kamaniņu braukšanā</title>
+      <description>Brāļu Andru un Jura Šicu kamaniņu sporta divnieku ekipāža sestdien Altenbergas trasē izcīnīja bronzas medaļu Pasaules kausa septītajā posmā.</description>
+      <link>https://pmo.ee/6513990</link>
+      <guid isPermaLink="false">pm#6513990</guid>
+      <pubDate>Sat, 02 Feb 2019 11:00:46 +0200</pubDate>
+      <author>LETA</author>
+      <category domain="https://www.tvnet.lv">TVNET</category>
+      <category domain="https://www.tvnet.lv/section/4232">Sports</category>
+      <category domain="https://www.tvnet.lv/section/4288">Ziemas sports</category>
+      <enclosure url="https://f7.pmo.ee/R21HnShGR7qozpIUlbQHaEqHdRk=/480x270/filters:focal(341x354:2878x2147)/nginx/o/2018/12/01/11618971t1hf1c7.jpg" length="" type="image/jpeg"/>
+    </item>
+    <item>
+      <title>Skaties tiešraidē pasaules līmeņa BMX frīstaila un skeitborda sacensības</title>
+      <description>Šajā nedēļas nogalē, 2. un 3. februārī, Igaunijas galvaspilsētā Tallinā risinās sacensības, kurās piedalās pasaules vadošie skeitborda un BMX frīstaila sportisti. "Simple Session" ir pielīdzināmas sava veida pasaules čempionātam skeitparku sporta veidu pārstāvjiem. Latviju šajās sacensībās pārstāvēs vairāki pašmāju talanti, tostarp pasaulē slavenais skeitbordists Madars Apse. </description>
+      <link>https://pmo.ee/6513260</link>
+      <guid isPermaLink="false">pm#6513260</guid>
+      <pubDate>Sat, 02 Feb 2019 11:00:00 +0200</pubDate>
+      <author>TVNET Sports</author>
+      <author>Postimees Sport</author>
+      <category domain="https://www.tvnet.lv">TVNET</category>
+      <category domain="https://www.tvnet.lv/section/4232">Sports</category>
+      <category domain="https://www.tvnet.lv/section/4306">Citi sporta veidi</category>
+      <enclosure url="https://f12.pmo.ee/KL_G-vuoi5h3c2UeoVOFx3nK5x8=/480x270/smart/nginx/o/2019/01/02/11691130t1h3875.jpg" length="" type="image/jpeg"/>
+    </item>
+    <item>
+      <title>Krievija aizturējusi Japānas krabju zvejas kuģi</title>
+      <description>Krievijas varasiestādes aizturējušas Japānas krabju zvejas kuģi ar desmit apkalpes locekļiem, sestdien paziņoja Japānas amatpersonas.</description>
+      <link>https://pmo.ee/6513988</link>
+      <guid isPermaLink="false">pm#6513988</guid>
+      <pubDate>Sat, 02 Feb 2019 10:54:40 +0200</pubDate>
+      <author>LETA/AFP</author>
+      <category domain="https://www.tvnet.lv">TVNET</category>
+      <category domain="https://www.tvnet.lv/section/4221">Ziņas</category>
+      <category domain="https://www.tvnet.lv/section/4225">Ārvalstīs</category>
+      <enclosure url="https://f9.pmo.ee/oFQCetfJbK7K3Rai4C9BO25lQJg=/480x270/filters:focal(977x446:2657x2151)/nginx/o/2018/09/21/11435210t1ha152.jpg" length="" type="image/jpeg"/>
+    </item>
+    <item>
+      <title>Stāsies spēkā aizliegums Latvijā retranslēt "Rossija RTR"</title>
+      <description>Nacionālās elektronisko plašsaziņas līdzekļu padomes (NEPLP) lēmums uz trīs mēnešiem aizliegt Latvijā retranslēt un izplatīt televīzijas programmu "Rossija RTR" stāsies spēkā pirmdien, 4.februārī, aģentūrai LETA precizēja NEPLP priekšsēdētāja Dace Ķezbere.</description>
+      <link>https://pmo.ee/6513922</link>
+      <guid isPermaLink="false">pm#6513922</guid>
+      <pubDate>Sat, 02 Feb 2019 10:50:25 +0200</pubDate>
+      <author>LETA</author>
+      <category domain="https://www.tvnet.lv">TVNET</category>
+      <category domain="https://www.tvnet.lv/section/4223">Kultūra+</category>
+      <category domain="https://www.tvnet.lv/section/4268">TV &amp; Radio</category>
+      <enclosure url="https://f12.pmo.ee/z1XJo1qDVGuM2pMJvf4s-8oMY70=/480x270/smart/nginx/o/2018/07/04/8022749t1h65e7.jpg" length="" type="image/jpeg"/>
+    </item>
+    <item>
+      <title>Debesīs virs Kubas atskanējis spēcīgs sprādziens</title>
+      <description>Kubas rietumos virs gleznainās Vinjalesa ielejas, kas atrodas uz ziemeļiem no reģiona galvaspilsētas Pinar del Rio, nograndis spēcīgs sprādziens, kas sākotnēji radījis bažas par lidmašīnas katastrofu, tomēr varasiestādes apgalvo, ka troksni izraisījis meteorīts, kura atlūzas jau ir atrastas.</description>
+      <link>https://pmo.ee/6513939</link>
+      <guid isPermaLink="false">pm#6513939</guid>
+      <pubDate>Sat, 02 Feb 2019 10:43:57 +0200</pubDate>
+      <author>LETA/TVNET</author>
+      <category domain="https://www.tvnet.lv">TVNET</category>
+      <category domain="https://www.tvnet.lv/section/4221">Ziņas</category>
+      <category domain="https://www.tvnet.lv/section/4225">Ārvalstīs</category>
+      <enclosure url="https://f12.pmo.ee/PAuIKAkjaCLCIPU7GNWc0bmsQHs=/480x270/smart/nginx/o/2019/02/02/11760108t1hc5d7.jpg" length="" type="image/jpeg"/>
+    </item>
+    <item>
+      <title>"Es neēdu puņķus" - Gobzems skaidro, ar ko patiesībā "mielojies"</title>
+      <description>Internetā ievērību guvis video, kurā Saeimas deputāts Aldis Gobzems (KPV LV) iemūžināts urbinot degunu un pēc tam it kā "mielojoties" ar savu atradumu. Tagad Gobzems devis skaidrojumu par video redzamo.</description>
+      <link>https://pmo.ee/6513974</link>
+      <guid isPermaLink="false">pm#6513974</guid>
+      <pubDate>Sat, 02 Feb 2019 10:41:30 +0200</pubDate>
+      <author>TVNET</author>
+      <category domain="https://www.tvnet.lv">TVNET</category>
+      <category domain="https://www.tvnet.lv/section/4238">Sejas</category>
+      <category domain="https://www.tvnet.lv/section/4240">Slavenības</category>
+      <enclosure url="https://f12.pmo.ee/GfPXhFW-nGjqTPBn5UcZMbvEE88=/480x270/filters:focal(10x90:270x390)/nginx/o/2019/02/01/11758873t1h4d15.jpg" length="" type="image/jpeg"/>
+    </item>
+    <item>
+      <title>Ar ballīti un koncertiem izskan 81. Mākslas akadēmijas karnevāls</title>
+      <description>Latvijas Mākslas akadēmijā (LMA) piektdienas vakarā norisinājās jau 81. ikgadējais karnevāls, kam dots viens no pirmajiem zināmajiem LMA karnevālu nosaukumiem "Sumpurņa pils". Akadēmijā bija izvietotas 11 pieturvietas, kurās varēja baudīt mūziku, deju, performanci, kino un dažādas citas mākslas izpausmes. No jauna karnevāla norisei tika atvērta Lielā aula. Aplūko foto! </description>
+      <link>https://pmo.ee/6513886</link>
+      <guid isPermaLink="false">pm#6513886</guid>
+      <pubDate>Sat, 02 Feb 2019 10:40:55 +0200</pubDate>
+      <author>TVNET</author>
+      <category domain="https://www.tvnet.lv">TVNET</category>
+      <category domain="https://www.tvnet.lv/section/4223">Kultūra+</category>
+      <category domain="https://www.tvnet.lv/section/4224">Kultūras un izklaides notikumi</category>
+      <enclosure url="https://f8.pmo.ee/0Fv2tvtwSCwslOv21RoJ8e3OCEk=/480x270/smart/nginx/o/2019/02/02/11760023t1h7af7.jpg" length="" type="image/jpeg"/>
+    </item>
+  </channel>
+</rss>
